@@ -1,0 +1,74 @@
+.App 
+{
+  margin: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+.employee
+{
+  border:solid 1px black;
+  display: flex;
+  flex-direction: row;
+  padding: .2em;
+}
+
+img
+{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.employeeID
+{
+  text-align: left;
+  padding-right: 5em;
+  margin: .3em;
+}
+
+.homePage
+{
+  border: solid 1px black;
+  
+}
+
+.header
+{
+  text-align: center;
+  border: solid 1px black;
+}
+
+.searchBar
+{
+  padding: 1px;
+  margin: 2px;
+  width: 97.5%;
+
+}
+
+
+.employeePage
+{
+  border: solid 1px black;
+}
+
+#contact
+{
+border: solid 1px black;
+padding-right: 1em;
+padding-left: .3em;
+padding-top: 1em;
+padding-bottom: 1em;
+text-align: left;
+}
+
+.employeeC
+{
+  padding: 1em;
+}
+
+.employeeCID
+{
+  border: solid 1px black;
+  padding: 1em;
+}
